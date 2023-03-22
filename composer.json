@@ -1,5 +1,5 @@
 {
-  "name": "alibabacloud/ess-20140828",
+  "name": "liamhao/ess-20140828",
   "description": "兼容 oos-20190601 所依赖的 alibabacloud/darabonba-openapi 包，版本改为一致的 ^0.2.7",
   "type": "library",
   "license": "Apache-2.0",
