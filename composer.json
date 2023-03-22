@@ -1,5 +1,5 @@
 {
-  "name": "liamhao/ess-20140828",
+  "name": "alibabacloud/ess-20140828",
   "description": "兼容 oos-20190601 所依赖的 alibabacloud/darabonba-openapi 包，版本改为一致的 ^0.2.7",
   "type": "library",
   "license": "Apache-2.0",
@@ -20,7 +20,8 @@
     "alibabacloud/tea-utils": "^0.2.0",
     "alibabacloud/darabonba-openapi": "^0.2.7",
     "alibabacloud/openapi-util": "^0.1.7",
-    "alibabacloud/endpoint-util": "^0.1.0"
+    "alibabacloud/endpoint-util": "^0.1.0",
+    "alibabacloud/ess-20140828": "master"
   },
   "autoload": {
     "psr-4": {
